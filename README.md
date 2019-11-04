@@ -17,3 +17,8 @@ int main(){
 
 	return 0;
 }
+
+
+branch1 creada, es crea new2 i s'sfegeix a la branca master (merge)  
+
+Creades diferents versions (v2.0, v3.0) amd diferents modificacions
